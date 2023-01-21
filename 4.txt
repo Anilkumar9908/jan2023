@@ -1,0 +1,15 @@
+
+public class HelloWorld {
+
+    public static void main(String[] args) {
+
+        System.out.println("HELLO WORLD");
+        System.out.println("HELLO INDIA");
+        System.out.println("HELLO HYDERABAD");
+        System.out.println("HELLO KONDAPATURU");
+        System.out.println("HELLO GUNTUR");
+        System.out.println("HELLO KAKUMANU");
+
+    }
+
+}
